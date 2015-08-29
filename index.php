@@ -15,5 +15,8 @@ and open the template in the editor.
                 
         ?>
         <br>
+        Este es un texto de prueba
+        <H1> la prueba en el servidor local para 
+            poder revisar lo que funciona</h1>
     </body>
 </html>
